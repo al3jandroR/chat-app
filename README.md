@@ -22,7 +22,6 @@ This chat app was built as a hands-on project to demonstrate full-stack developm
 | Realtime     | Socket.io                |
 | Database     | MongoDB + Mongoose       |
 | Frontend     | HTML, CSS, Vanilla JS    |
-| Hosting      | (Optional) Render / Heroku / Vercel |
 
 ## Features
 
