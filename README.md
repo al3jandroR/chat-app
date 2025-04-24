@@ -8,7 +8,7 @@ This chat app was built as a hands-on project to demonstrate full-stack developm
 
 - **JWT Authentication** (Login/Signup)
 - **Real-Time Messaging** via WebSockets
-- ⚙**Node.js / Express** backend
+- **Node.js / Express** backend
 - **MongoDB** for user and message storage
 - **Socket.io** for low-latency communication
 - **Responsive UI** with HTML/CSS & JavaScript
